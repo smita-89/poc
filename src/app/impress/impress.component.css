@@ -1,0 +1,29 @@
+.main {
+  letter-spacing: 1.75px;
+  font-family: 'Cabin',
+    sans-serif;
+  font-size: 14px;
+  color: #8A9DB0;
+
+}
+
+.yes {
+  font-family: 'Cabin',
+    sans-serif;
+}
+
+.yess {
+  font-weight: 550;
+  color: #d9475c;
+  font-family: 'Cabin',
+    sans-serif;
+}
+
+.serve {}
+
+.serve li {
+  float: left;
+  list-style: none;
+  width: 400px;
+
+}

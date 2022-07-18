@@ -1,0 +1,20 @@
+.main-header {
+  min-height: 100px;
+}
+
+.mark {
+  border: 1px solid rebeccapurple;
+}
+
+.mark li {
+  float: left;
+  list-style: none;
+  border: 1px solid red;
+  padding: 10px !important;
+  padding: 20px 5px;
+
+}
+
+.im {
+  height: 63px;
+}
